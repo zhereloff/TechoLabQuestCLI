@@ -1,0 +1,4 @@
+pyserial==3.5
+matplotlib==3.4.3
+tk
+colorama==0.4.4
