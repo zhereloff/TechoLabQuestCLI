@@ -1,6 +1,8 @@
 # Тестовое задание на вакансию Embedded разработчик
 ## Видео работы устройства:
 https://youtu.be/gYxEXtR9L0Y
+## Ссылка на репозиторий с программой для STM32:
+https://github.com/zhereloff/TechnoLabQuest
 
 ## Возможности
 
